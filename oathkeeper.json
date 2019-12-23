@@ -1,19 +1,19 @@
 {
-    "version": "0.33.0-beta.1",
+    "version": "0.33.1-beta.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ory/oathkeeper/releases/download/v0.33.0-beta.1/oathkeeper_0.33.0-beta.1_Windows_32-bit.zip",
+            "url": "https://github.com/ory/oathkeeper/releases/download/v0.33.1-beta.1/oathkeeper_0.33.1-beta.1_Windows_32-bit.zip",
             "bin": [
                 "oathkeeper.exe"
             ],
-            "hash": "5054e87805834429317808230a1ae50c4bd1eeaf63c35afa2fc6af22f0eced43"
+            "hash": "1cbfd483d36c873f8267a4f2d69c32af0e9a798ab875e9a41deec098c2db185d"
         },
         "64bit": {
-            "url": "https://github.com/ory/oathkeeper/releases/download/v0.33.0-beta.1/oathkeeper_0.33.0-beta.1_Windows_64-bit.zip",
+            "url": "https://github.com/ory/oathkeeper/releases/download/v0.33.1-beta.1/oathkeeper_0.33.1-beta.1_Windows_64-bit.zip",
             "bin": [
                 "oathkeeper.exe"
             ],
-            "hash": "64dc95b70cdf346e42dc6a6f669bbe1d2c0fc8fab331cb5f4ad233e10c107654"
+            "hash": "4e4d98f1555b937e8d736b81d291da2715b2a5316df49c853fd5a906128f6e93"
         }
     },
     "homepage": "https://www.ory.sh"
